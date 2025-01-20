@@ -1,0 +1,18 @@
+Mandatory Dependencies
+
+python>=3.8
+requests>=2.28.1
+beautifulsoup4>=4.11.1
+
+Optional Dependencies
+
+scrapy>=2.6.1
+torch>=1.12.1  # PyTorch
+tensorflow>=2.10.0  # TensorFlow
+sqlite3>=3.37.0  # SQLite
+mysql-connector-python>=8.0.29  # MySQL
+
+Additional Dependencies (for development)
+
+pip>=22.0.4
+setuptools>=58.1.0
